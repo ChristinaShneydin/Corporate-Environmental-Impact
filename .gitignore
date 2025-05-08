@@ -12,7 +12,6 @@ venv/
 
 # Data
 data/raw/
-data/processed/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -20,3 +19,5 @@ data/processed/
 # Abbildungen 
 notebooks/top_10_indrusties_emissions.png
 notebooks/top_10_low_emission_industries.png
+notebooks/top_10_branches_scopes_stacked.png
+notebooks/turnover_efficiency_scatter.png
