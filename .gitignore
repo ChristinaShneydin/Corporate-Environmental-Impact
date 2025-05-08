@@ -16,3 +16,7 @@ data/processed/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Abbildungen 
+notebooks/top_10_indrusties_emissions.png
+notebooks/top_10_low_emission_industries.png
