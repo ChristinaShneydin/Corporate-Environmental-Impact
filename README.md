@@ -1,5 +1,5 @@
 # Corporate-Environmental-Impact
-# CO₂-Intensitätsanalyse mit dem Impact-Weighted Accounts Dataset
+# Emissions-Intensitätsanalyse mit dem Impact-Weighted Accounts Dataset
 
 ## Ziel
 Analyse der Treibhausgasintensität nach Branche und Unternehmen auf Basis der Scope-3-Daten von Harvard IWA.
@@ -18,9 +18,11 @@ Emissionen in monetarisierter Form dargestellt (300 USD Umweltschadenskosten pro
 
 ## Fragestellungen 
 - Welche Branchen verursachen die höchsten/niedrigsten Emissionen
-- Welche Branchen sind am emissionsintensivsten (Scope 3 / Umsatz)? 
-- Welche Branchen sind am emissionsärmsten bei hohem Umsatz?
-- Gibt es strukturelle Unterschiede zwischen Ländern/Regionen?
+- Wie Entwickeln sich die Emissionen im zeitlichen Verlauf der TOP Branchen?
+- Welche Branchen sind am effizientesten? (Höchster Umsatz, bei niedrigsten Emissionen)
 
 
 ## Fazit: 
+- leichter Emissions-Rückgang bei den emissionsstärksten Unternehmen zu beobachten (vermutlich auf stärkere Regulierungen zurückzuführen)
+- starke Schwankungen lassen sich durch geringe Anzahl an Unternehmen innerhalb der Branche erklären (teilweise nur 2 bis 10 Unternehmen pro Branche)
+- Höherer Umsatz geht tendenziell mit höheren Emissionen einher, spannend ist wie viele Emissionen pro USD Umsatz entstehen -> die Unternehmen mit   niedrigeren Emissionen bei gleichem Umsatz sollten näher betrachtet werden, innerhalb der Branche miteinander vergleichen  
