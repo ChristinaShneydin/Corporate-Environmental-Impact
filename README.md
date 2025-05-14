@@ -16,6 +16,9 @@ Betrachtungszeitraum: 2018–2022
 Teilweise maschinell geschätzte Werte (Machine Learning basiert)
 Emissionen in monetarisierter Form dargestellt (300 USD Umweltschadenskosten pro Tonne Emissionen)
 
+Es gibt eine PDF Präsentation mit eingebetteten Abbildungen (Corporate_Environmental_Impact_Praesentation.pdf). Diese kann für einen Überblick heruntergeladen werden. 
+Detaillierte Codes sind unter "notebooks" als ipynb Dateien zu finden.
+
 ## Fragestellungen 
 - Welche Branchen verursachen die höchsten/niedrigsten Emissionen
 - Wie Entwickeln sich die Emissionen im zeitlichen Verlauf der TOP Branchen?
