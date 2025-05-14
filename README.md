@@ -10,10 +10,10 @@ https://ifvi.org/wp-content/uploads/2023/10/Scope-3-Environmental-Impact-Data-20
 alternativ: https://ifvi.org/impact-accounting-in-practice/resources/ -> Scope 3 Environmental Impact Data (2022)
 
 ## Allgemeine Information
-Über 6.000 Unternehmen weltweit
-Etwa 50 Branchen (Industry)
-Betrachtungszeitraum: 2018–2022
-Teilweise maschinell geschätzte Werte (Machine Learning basiert)
+Über 6.000 Unternehmen weltweit;
+Etwa 50 Branchen (Industry);
+Betrachtungszeitraum: 2018–2022;
+Teilweise maschinell geschätzte Werte (Machine Learning basiert);
 Emissionen in monetarisierter Form dargestellt (300 USD Umweltschadenskosten pro Tonne Emissionen)
 
 Es gibt eine PDF Präsentation mit eingebetteten Abbildungen (Corporate_Environmental_Impact_Praesentation.pdf). Diese kann für einen Überblick heruntergeladen werden. 
