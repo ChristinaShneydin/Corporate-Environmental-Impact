@@ -26,6 +26,6 @@ Detaillierte Codes sind unter "notebooks" als ipynb Dateien zu finden.
 
 
 ## Fazit: 
-- leichter Emissions-Rückgang bei den emissionsstärksten Unternehmen zu beobachten (vermutlich auf stärkere Regulierungen zurückzuführen)
-- starke Schwankungen lassen sich durch geringe Anzahl an Unternehmen innerhalb der Branche erklären (teilweise nur 2 bis 10 Unternehmen pro Branche)
-- Höherer Umsatz geht tendenziell mit höheren Emissionen einher, spannend ist wie viele Emissionen pro USD Umsatz entstehen -> die Unternehmen mit   niedrigeren Emissionen bei gleichem Umsatz sollten näher betrachtet werden, innerhalb der Branche miteinander vergleichen  
+- leichter Emissions-Rückgang bei den emissionsstärksten Unternehmen zu beobachten (vermutlich auf stärkere Regulierungen und gesellschaftlichen Druck zurückzuführen)
+- starke Schwankungen lassen sich durch geringe Anzahl an Unternehmen innerhalb der Branche erklären (teilweise gibt es nur Daten von nur 2 bis 10 Unternehmen pro Branche -> zwar sind zahlreiche Unternehmen gemeldet, jedoch sind die Branchenkategorien zu stark verzweigt)
+- Höherer Umsatz geht tendenziell mit höheren Emissionen einher, spannend ist wie viele Emissionen pro USD Umsatz entstehen -> die Unternehmen mit niedrigeren Emissionen bei gleichem Umsatz sollten näher betrachtet werden, innerhalb der Branche miteinander vergleichen  
